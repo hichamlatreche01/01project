@@ -1,0 +1,5 @@
+{
+  "name": "Évaluateur Pratique Réflexive",
+  "description": "Un chatbot intelligent pour évaluer les connaissances des étudiants sur le cours de Philippe Clauzard relatif à la pratique réflexive chez les enseignants.",
+  "requestFramePermissions": []
+}
